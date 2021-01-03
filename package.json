@@ -1,0 +1,24 @@
+{
+  "name": "mb-db",
+  "version": "1.0.0",
+  "description": "A web server for saving lyrics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ourpalace/mb-db.git"
+  },
+  "author": "Misly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ourpalace/mb-db/issues"
+  },
+  "homepage": "https://github.com/ourpalace/mb-db#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fastify": "^3.9.2",
+    "mongoose": "^5.11.9"
+  }
+}
